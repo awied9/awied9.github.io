@@ -1,5 +1,9 @@
 h1 {
     font-weight: bold;
+    background-color: gainsboro;
+    border: 15px solid blue;
+    padding: 50px;
+    margin: 20px;
 }
 
 a {
@@ -10,12 +14,6 @@ a:hover {
     color:blueviolet;
     border: 5px solid blueviolet;
     padding: 10px;
-    margin: 20px;
-}
-
-img {
-    border: 15px solid blue;
-    padding: 50px;
     margin: 20px;
 }
 

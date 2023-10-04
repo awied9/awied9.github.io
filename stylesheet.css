@@ -1,4 +1,42 @@
 h1 {
-    color: red;
+    font-weight: bold;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color:blueviolet;
+    border: 5px solid blueviolet;
+    padding: 10px;
+    margin: 20px;
+}
+
+img {
+    border: 15px solid blue;
+    padding: 50px;
+    margin: 20px;
+}
+
+#additionalInfo{ 
+    font-style: italic;
+}
+
+.headText {
+    font-size: 40px;
     text-align: center;
-  }
+}
+
+.mainText {
+    font-size: 20px;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
